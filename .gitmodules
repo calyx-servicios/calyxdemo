@@ -1,0 +1,12 @@
+[submodule "submodules/ingadhoc/sale"]
+	path = submodules/ingadhoc/sale
+	url = https://github.com/ingadhoc/sale
+	branch = 15.0
+[submodule "submodules/ingadhoc/stock"]
+	path = submodules/ingadhoc/stock
+	url = https://github.com/ingadhoc/stock
+	branch = 15.0
+[submodule "submodules/ingadhoc/product"]
+	path = submodules/ingadhoc/product
+	url = https://github.com/ingadhoc/product
+	branch = 15.0
