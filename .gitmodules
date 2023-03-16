@@ -22,3 +22,7 @@
 	path = submodules/ingadhoc/account-financial-tools
 	url = https://github.com/ingadhoc/account-financial-tools
 	branch = 15.0
+[submodule "submodules/aeroo/aeroo_reports"]
+	path = submodules/aeroo/aeroo_reports
+	url = https://github.com/aeroo/aeroo_reports
+	branch = 15.0
