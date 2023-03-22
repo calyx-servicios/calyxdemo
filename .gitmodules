@@ -26,3 +26,8 @@
 	path = submodules/aeroo/aeroo_reports
 	url = https://github.com/aeroo/aeroo_reports
 	branch = 15.0
+
+[submodule "submodules/OCA/sale-workflow"]
+	path = submodules/OCA/sale-workflow
+	url = git@github.com:OCA/sale-workflow.git
+	branch = 15.0
