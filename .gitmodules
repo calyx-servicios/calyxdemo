@@ -1,0 +1,4 @@
+[submodule "submodules/OCA/project"]
+	path = submodules/OCA/project
+	url = git@github.com:OCA/project.git
+	branch = 15.0
