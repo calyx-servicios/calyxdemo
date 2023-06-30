@@ -2,8 +2,3 @@
 	path = submodules/OCA/project
 	url = git@github.com:OCA/project.git
 	branch = 15.0
-
-[submodule "submodules/CybroOdoo/CybroAddons"]
-	path = submodules/CybroOdoo/CybroAddons
-	url = git@github.com:CybroOdoo/CybroAddons.git
-	branch = 15.0
